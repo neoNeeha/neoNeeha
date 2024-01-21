@@ -1,16 +1,19 @@
-### Hi there 👋
+# neoNeeha 🌟
 
-<!--
-**neoNeeha/neoNeeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Neha Soni, aka neoNeeha, a passionate 1st-year BTech student on an exciting coding journey! 👩‍💻✨
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Aspiring Data Scientist
+- 💡 Unraveling the magic of code
+- 🌈 #CodeDreamRepeat is my mantra
+
+## Current Status
+
+🎓 Studying at SVVV, India
+
+## GitHub Stats
+
+![neoNeeha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neoNeeha&show_icons=true&count_private=true&hide=contribs)
+
+Feel free to join me on this coding adventure! 🚀✨
